@@ -1,7 +1,10 @@
-![Desk](hellogithub.svg)<br>it seems that you are lost..<br>you may leave!
+![Desk](hellogithub.svg)
+<br>it seems that you are lost..<br>you may leave!
 <br><br>
 cuz<br>im just a nobody fr
-
+<br><br>
+unless you want to stick arround for a sec,<br>
+then welcome!
 <!--
 **theoForReal/theoForReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
