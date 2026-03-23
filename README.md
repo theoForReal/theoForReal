@@ -1,4 +1,4 @@
-<img src="backgroundgithub.png" width="500"></img><br>
+
 ![Desk](hellogithub.svg)
 <br>it seems that you are lost..<br>you may leave!
 <br><br>
