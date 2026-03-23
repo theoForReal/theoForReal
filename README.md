@@ -1,12 +1,8 @@
 ![](hellogithub.svg)
 
-it seems that you are lost..
-
-you may leave!
-
-cuz
-
-im just a nobody fr
+it seems that you are lost..<br>you may leave!
+<br><br>
+cuz<br>im just a nobody fr
 
 <!--
 **theoForReal/theoForReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
